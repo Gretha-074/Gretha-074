@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"> I am an Aspiring Data Scientist pursuing an Honours Bachelor of Computer Science and Mathematics (Data Science) at University of Ottawa. I bring hands-on experience from roles with Elections Canada and the Public Service Commission of Canada, where I built data models, improved data quality, and supported analytics and automation using Python, SQL, and Power BI. I am passionate bout turning complex data into actionable insights. Stay tuned for upcoming projects! </p>
+<p align="left"> I am an Aspiring Data Scientist pursuing an Honours Bachelor of Computer Science and Mathematics (Data Science) at University of Ottawa. I bring hands-on experience from roles with Elections Canada and the Public Service Commission of Canada, where I built data models, improved data quality, and supported analytics and automation using Python, SQL, and Power BI. I am passionate about turning complex data into actionable insights. Stay tuned for upcoming projects! </p>
 
 ###
 
